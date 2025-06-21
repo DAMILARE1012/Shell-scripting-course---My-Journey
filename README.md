@@ -1,7 +1,12 @@
+
+
 # The Linux Basics Course
 
 These are notes from the [Shell Scripting for Beginners](https://kodekloud.com/courses/shell-scripts-for-beginners/) hosted on KodeKloud.
-
+### Best Practice
+ - Design your script to be re-usable
+ - Script should not be required to be edited before running.
+ - Use command line argument to pass inputs
 # Sections
 
 - [01-Course-Introduction](docs/01-Course-Introduction)
